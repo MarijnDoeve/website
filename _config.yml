@@ -5,13 +5,13 @@ version: 2
 
 # Personal info
 name: Marijn Doeve
-title: Developer bij True
+title: Backend Developer bij MyWheels
 email: marijn@doeve.me
 # website: marijndoeve.nl
 
 # Social links
 # twitter_username: marijn100
-github_username: TheRijn
+github_username: MarijnDoeve
 stackoverflow_username: "4734846"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -25,7 +25,7 @@ linkedin_username: marijndoeve
 about_title: Over mij
 about_profile_image: images/marijn.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hoi! Ik ben Marijn all-round nerd en developer bij True. Sinds augustus 2022 werkzaam
+  Hoi! Ik ben Marijn all-round nerd en baclend developer bij MyWheels. Sinds augustus 2022 werkzaam
   als PHP-developer met nog altijd een liefde voor Python.
 
 content:
@@ -33,9 +33,15 @@ content:
     layout: list
     content:
       - layout: left
+        title: MyWheels
+        sub_title: Backend Developer
+        caption: november 2024 - heden
+        link: mywheels.nl
+
+      - layout: left
         title: True B.V.
         sub_title: Software Developer
-        caption: augustus 2022 - heden
+        caption: augustus 2022 - oktober 2024
         link: true.nl
         description: |
           - In een team van 5 werken aan TrueCare en TrueAdmin
@@ -44,7 +50,7 @@ content:
           - Oplossen van bugs die binnenkomen via tickets van klanten of medewerkers
           - Organiseren van BBQ's, LAN-party's en kerstfeesten bij de Feestcommissie
 
-          _Techstack:_ PHP 5.5-8.3, Symfony 6, Kubernetes, Angular, CakePHP 2/3, MySQL
+          _Techstack:_ PHP 5.5-8.3, Symfony 7, Kubernetes, Angular, CakePHP 2/3, MySQL
 
       - layout: left
         title: Minor Programmeren - Universiteit van Amsterdam
