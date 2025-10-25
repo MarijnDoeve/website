@@ -18,6 +18,7 @@ stackoverflow_username: "4734846"
 # flickr_username: jekyll
 instagram_username: marijn100
 linkedin_username: marijndoeve
+mastodon_username: "@marijn@phpc.social"
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 
@@ -126,7 +127,7 @@ content:
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
