@@ -18,7 +18,8 @@ stackoverflow_username: "4734846"
 # flickr_username: jekyll
 instagram_username: marijn100
 linkedin_username: marijndoeve
-mastodon_username: "@marijn@phpc.social"
+mastodon_username: marijn
+mastodon_instance: phpc.social
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 
@@ -26,7 +27,7 @@ mastodon_username: "@marijn@phpc.social"
 about_title: Over mij
 about_profile_image: images/marijn.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hoi! Ik ben Marijn all-round nerd en baclend developer bij MyWheels. Sinds augustus 2022 werkzaam
+  Hoi! Ik ben Marijn all-round nerd en backend developer bij MyWheels. Sinds augustus 2022 werkzaam
   als PHP-developer met nog altijd een liefde voor Python.
 
 content:
@@ -127,7 +128,7 @@ content:
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/modern-resume-theme
+remote_theme: marijndoeve/modern-resume-theme
 
 sass:
   sass_dir: _sass
